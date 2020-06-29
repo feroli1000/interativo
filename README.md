@@ -65,3 +65,27 @@ https://github.com/lerrua/remote-jobs-brazil
 ## localForage
 localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (IndexedDB or WebSQL) with a simple, localStorage-like API.  
 https://github.com/localForage/localForage  
+
+
+## Awesome List
+Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much  
+https://github.com/sindresorhus/awesome
+
+## Public Apis
+A collective list of free APIs for use in software and web development.  
+https://github.com/public-apis
+
+
+## Computer Science
+Open Source Society University  
+Path to a free self-taught education in Computer Science!  
+https://github.com/ossu/computer-science
+
+## Free Programming Books
+List of Free Learning Resources  
+https://github.com/EbookFoundation/free-programming-books
+
+## free-for.dev
+This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.  
+https://github.com/ripienaar/free-for-dev
+
