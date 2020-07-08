@@ -89,3 +89,8 @@ https://github.com/EbookFoundation/free-programming-books
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.  
 https://github.com/ripienaar/free-for-dev
 
+## OLinuXino - Single-Board Linux Computer, Copyright (C) 2012-2019, OLIMEX Ltd
+OLinuXino is an Open Source Software and Open Source Hardware project, aiming to produce low cost (starting from EUR 24)
+Linux and Android Single Board Computers (SBC) in both commercial and industrial temperature range. Board variants with extra flash memory
+are also available.  
+https://github.com/OLIMEX/OLINUXINO
