@@ -33,6 +33,10 @@ https://github.com/jdorn/sql-formatter
 The most awesome validation engine ever created for PHP.  
 https://github.com/Respect/Validation
 
+## KeeCap-Open-Motion-Capture-Suit
+This is an arduino based open motion capture suit and all files necessary to build it.  
+https://github.com/nkeeline/KeeCap-Open-Motion-Capture-Suit
+
 
 ## GRAV
 Grav is a modern open source flat-file CMS  
