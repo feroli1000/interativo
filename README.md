@@ -98,3 +98,27 @@ OLinuXino is an Open Source Software and Open Source Hardware project, aiming to
 Linux and Android Single Board Computers (SBC) in both commercial and industrial temperature range. Board variants with extra flash memory
 are also available.  
 https://github.com/OLIMEX/OLINUXINO
+
+## html2pdf.js
+html2pdf.js converts any webpage or element into a printable PDF entirely client-side using html2canvas and jsPDF. 
+https://github.com/eKoopmans/html2pdf.js
+
+## pdfmake Build Status GitHub npm Bower Packagist CDNJS
+PDF document generation library for server-side and client-side in pure JavaScript.
+https://github.com/bpampuch/pdfmake
+
+## jsPDF
+A library to generate PDFs in JavaScript.
+https://github.com/MrRio/jsPDF
+
+## clean-code-javascript
+Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. 
+https://github.com/ryanmcdermott/clean-code-javascript
+
+## free-for.dev
+Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
+https://github.com/ripienaar/free-for-dev
+
+## Kitten Tricks Eva Design System Build Status runs with expo Netlify Status - React Native
+This perfect starter kit is an app based on React Native and UI Kitten library with Light and Dark themes support. It’s completely free and Open Source. Compose the application from available screens, add backend integration and you will end up with A-grade cross-platform mobile application. The themes can be changed in the runtime, without any need of reloading the application.
+https://github.com/akveo/kittenTricks
