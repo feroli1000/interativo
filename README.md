@@ -100,27 +100,27 @@ are also available.
 https://github.com/OLIMEX/OLINUXINO
 
 ## html2pdf.js
-html2pdf.js converts any webpage or element into a printable PDF entirely client-side using html2canvas and jsPDF. 
+html2pdf.js converts any webpage or element into a printable PDF entirely client-side using html2canvas and jsPDF.   
 https://github.com/eKoopmans/html2pdf.js
 
 ## pdfmake Build Status GitHub npm Bower Packagist CDNJS
-PDF document generation library for server-side and client-side in pure JavaScript.
+PDF document generation library for server-side and client-side in pure JavaScript.  
 https://github.com/bpampuch/pdfmake
 
 ## jsPDF
-A library to generate PDFs in JavaScript.
+A library to generate PDFs in JavaScript.  
 https://github.com/MrRio/jsPDF
 
 ## clean-code-javascript
-Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. 
+Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript.  
 https://github.com/ryanmcdermott/clean-code-javascript
 
 ## free-for.dev
-Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions. 
+Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.  
 https://github.com/ripienaar/free-for-dev
 
 ## Kitten Tricks Eva Design System Build Status runs with expo Netlify Status - React Native
-This perfect starter kit is an app based on React Native and UI Kitten library with Light and Dark themes support. It’s completely free and Open Source. Compose the application from available screens, add backend integration and you will end up with A-grade cross-platform mobile application. The themes can be changed in the runtime, without any need of reloading the application. 
+This perfect starter kit is an app based on React Native and UI Kitten library with Light and Dark themes support. It’s completely free and Open Source. Compose the application from available screens, add backend integration and you will end up with A-grade cross-platform mobile application. The themes can be changed in the runtime, without any need of reloading the application.  
 https://github.com/akveo/kittenTricks
 
 ## Vue Storefront
@@ -130,32 +130,32 @@ Shopware
 commercetools
 About You Cloud
 Pimcore/CoreShop
-BigCommerce 
-https://github.com/DivanteLTD/vue-storefront 
+BigCommerce  
+https://github.com/DivanteLTD/vue-storefront  
 https://www.vuestorefront.io/ 
 
 ## Apex Charts
-A modern JavaScript charting library to build interactive charts and visualizations with simple API. 
+A modern JavaScript charting library to build interactive charts and visualizations with simple API.  
 https://github.com/apexcharts/apexcharts.js 
 
 ## Laravel
-21 Laravel Tutorials for Learning Laravel in 2021
+21 Laravel Tutorials for Learning Laravel in 2021  
 https://laravel-news.com/learning-laravel-in-2021
 
 ## MJML 
-Framework that makes responsive email 
+Framework that makes responsive email  
 https://mjml.io/
 
 ## GRAFANA
-Grafana has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives. 
+Grafana has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives.  
 https://grafana.com/
 
 ## Neo4j
-Neo4j is a native graph database, built from the ground up to leverage not only data but also data relationships. Neo4j connects data as it’s stored, enabling queries never before imagined, at speeds never thought possible.
+Neo4j is a native graph database, built from the ground up to leverage not only data but also data relationships. Neo4j connects data as it’s stored, enabling queries never before imagined, at speeds never thought possible.  
 https://neo4j.com/graphacademy/neo4j-certification/ 
 
 ## ECharts
-Apache ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization
+Apache ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization  
 https://echarts.apache.org/en/index.html 
 
 
