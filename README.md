@@ -138,3 +138,30 @@ https://www.vuestorefront.io/
 A modern JavaScript charting library to build interactive charts and visualizations with simple API. 
 https://github.com/apexcharts/apexcharts.js 
 
+## Laravel
+21 Laravel Tutorials for Learning Laravel in 2021
+https://laravel-news.com/learning-laravel-in-2021
+
+## MJML 
+Framework that makes responsive email 
+https://mjml.io/
+
+## GRAFANA
+Grafana has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives. 
+https://grafana.com/
+
+## Neo4j
+Neo4j is a native graph database, built from the ground up to leverage not only data but also data relationships. Neo4j connects data as it’s stored, enabling queries never before imagined, at speeds never thought possible.
+https://neo4j.com/graphacademy/neo4j-certification/ 
+
+## ECharts
+Apache ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization
+https://echarts.apache.org/en/index.html 
+
+
+
+
+
+
+
+
